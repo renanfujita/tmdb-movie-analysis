@@ -6,6 +6,10 @@ Este projeto demonstra a construção de um pipeline de dados completo, desde a 
 
 O objetivo final é gerar dois datasets estruturados para a criação de dashboards e análises visuais no Power BI. 
 
+## Descobertas e Limitações 
+
+Uma descoberta fundamental neste conjunto de dados foi a grande quantidade de informações financeiras ausentes. Aproximadamente 30% dos filmes não possuíam dados de orçamento ou receita disponíveis. Essa limitação foi contornada garantindo que todos os cálculos e visualizações financeiras no dashboard final do Power BI sejam claramente sinalizados como representativos dos 70% dos filmes com dados completos, assegurando a transparência e a interpretação correta dos resultados.
+
 ## 📊 Dashboard de Análise no Power BI
 
 *O dashboard interativo para este projeto está atualmente em fase de desenvolvimento e o link para a versão publicada será adicionado aqui em breve.*
