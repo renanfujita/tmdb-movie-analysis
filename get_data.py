@@ -6,7 +6,6 @@ import pandas as pd
 from tqdm import tqdm
 from src.api_handler import discover_all_movies, get_movie_details # <--- PASSO CHAVE 1
 
-# --- CONFIGURAÇÃO ---
 # Define onde os dados brutos serão salvos
 OUTPUT_DIR = 'data/raw'
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, 'tmdb_movies_raw.csv')

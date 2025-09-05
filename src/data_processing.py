@@ -31,7 +31,7 @@ def process_main_movie_data(df_raw):
     # 7. Arredonda a avaliação
     df['Avaliação'] = df['Avaliação'].round(1)
     
-    # 8. Filtra o DataFrame para manter apenas os filmes válidos (A PARTE CRÍTICA!)
+    # 8. Filtra o DataFrame para manter apenas os filmes válidos;
     # Mantém apenas filmes com data de lançamento válida E a partir de 2015
     df_filtrado = df.dropna(subset=['Lançamento'])
     df_filtrado = df_filtrado[df_filtrado['Lançamento'].dt.year >= 2015].copy()
