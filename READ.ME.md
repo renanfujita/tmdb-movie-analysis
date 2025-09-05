@@ -12,7 +12,7 @@ Uma descoberta fundamental neste conjunto de dados foi a grande quantidade de in
 
 ## 📊 Dashboard de Análise no Power BI
 
-*O dashboard interativo para este projeto está atualmente em fase de desenvolvimento e o link para a versão publicada será adicionado aqui em breve.*
+![Dashboard de Análise de Filmes](img/dashboard.png)
 
 ## 🛠️ Ferramentas e Tecnologias
 
