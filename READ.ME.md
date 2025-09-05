@@ -14,6 +14,8 @@ Uma descoberta fundamental neste conjunto de dados foi a grande quantidade de in
 
 ![Dashboard de Análise de Filmes](img/dashboard.png)
 
+Resolvendo problema de e-mail junto à Microsoft para conseguir criar link via Power BI Service. 
+
 ## 🛠️ Ferramentas e Tecnologias
 
 - **Python:** Linguagem principal para a coleta e o processamento dos dados.
